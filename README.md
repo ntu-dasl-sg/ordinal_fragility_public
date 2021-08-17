@@ -1,6 +1,6 @@
 # Ordinal earthquake fragility curves
 
-This repository contains R code for the analyses in "Ordinal earthquake fragility curves" by Michele Nguyen and David Lallemant.
+This repository contains R code for the analyses in "Order Matters: the Benefits of Ordinal Fragility Curves for Damage and Loss Esimation" by Michele Nguyen and David Lallemant.
 
 - Synthetic_data_experiment.Rmd: The R markdown code for the generation and analysis of the synthetic damage data.
 - Nepal_timber_analysis.Rmd: The R markdown code for the case study using damage data from the 2015 Nepal earthquake for buildings with the timber superstructure.   
